@@ -9,9 +9,3 @@ Este projeto é um aplicativo web simples para realizar sorteios de amigo secret
 * HTML
 * CSS
 * JavaScript
-
-## Instalação
-
-1. **Clone o repositório:**
-   ```bash
-   git@github.com:LuisAlexandreb/Amigo-Secreto.git
