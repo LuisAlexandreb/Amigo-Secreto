@@ -14,4 +14,4 @@ Este projeto é um aplicativo web simples para realizar sorteios de amigo secret
 
 1. **Clone o repositório:**
    ```bash
-  
+  git@github.com:LuisAlexandreb/Amigo-Secreto.git
